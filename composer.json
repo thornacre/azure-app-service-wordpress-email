@@ -1,14 +1,14 @@
 {
     "name": "thornacre/azure-app-service-email-wordpress-plugin",
     "description": "Simple mirror of the Microsoft wordpress plugin so it can be hosted on Packagist and used installed via a composer.json file.",
-    "type": "library",
+    "type": "wordpress-plugin",
     "keywords": [
         "azure",
         "app service",
         "email",
         "wordpress"
     ],
-    "license": "MIT",
+    "license": "GPL-2.0+",
     "authors": [
         {
             "name": "thornacre",
